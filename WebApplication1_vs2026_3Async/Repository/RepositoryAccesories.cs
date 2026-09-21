@@ -1,0 +1,53 @@
+using WebApplication1_vs2026_3Async.Models;
+
+namespace WebApplication1_vs2026_3Async.Repository
+{
+    public class RepositoryAccesories
+    {
+        public List<Accesories> ListAccesories = new List<Accesories>
+        {
+            new Accesories { Id = 1, Name = "GPS", Description = "Navigation system", Price = 200 , Model = "3 Series" },
+            new Accesories { Id = 2, Name = "Roof Rack", Description = "For carrying extra luggage", Price = 150, Model = "3 Series" },
+            new Accesories { Id = 3, Name = "Seat Covers", Description = "Protects the seats", Price = 100, Model = "Camry" },
+            new Accesories { Id = 4, Name = "Car Cover", Description = "Protects the car from dust and weather", Price = 80, Model = "Civic" },
+            new Accesories { Id = 5, Name = "Dash Cam", Description = "Records your driving", Price = 120, Model = "1 Series" },
+            new Accesories { Id = 6, Name = "Bluetooth Adapter", Description = "Enables Bluetooth connectivity", Price = 50, Model = "Altima" },
+            new Accesories { Id = 7, Name = "Alloy Wheels", Description = "Stylish wheels for better performance", Price = 400, Model = "1 Series" },
+            new Accesories { Id = 8, Name = "Performance Exhaust", Description = "Enhances engine performance", Price = 600, Model = "F-150" },
+            new Accesories { Id = 9, Name = "Spoiler", Description = "Improves aerodynamics", Price = 250, Model = "X3" }
+
+        };
+
+        public Accesories? GetAccesoryById(int id)
+        {
+            return ListAccesories.FirstOrDefault(a => a.Id == id);
+        }
+
+        public List<Accesories> GetAllAccesories()
+        {
+            return ListAccesories;
+        }
+
+        public List<Accesories> GetAccesoriesByModel(string model)
+        {
+            var accesories = ListAccesories.Where(a => a.Model == model).ToList();
+            return accesories;
+        }
+
+        // Async variants (in-memory, return completed tasks)
+        public Task<Accesories?> GetAccesoryByIdAsync(int id)
+        {
+            return Task.FromResult(GetAccesoryById(id));
+        }
+
+        public Task<List<Accesories>> GetAllAccesoriesAsync()
+        {
+            return Task.FromResult(GetAllAccesories());
+        }
+
+        public Task<List<Accesories>> GetAccesoriesByModelAsync(string model)
+        {
+            return Task.FromResult(GetAccesoriesByModel(model));
+        }
+    }
+}
