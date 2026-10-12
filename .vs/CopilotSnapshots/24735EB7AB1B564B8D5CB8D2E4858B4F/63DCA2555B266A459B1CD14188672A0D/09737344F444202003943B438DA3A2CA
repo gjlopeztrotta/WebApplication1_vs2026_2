@@ -1,0 +1,35 @@
+﻿using WebApplication1_vs2026_2.Repository;
+using Microsoft.Extensions.DependencyInjection;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllers();
+builder.Services.AddSingleton<RepositoryVehicle>();
+builder.Services.AddSingleton<RepositoryTax>();
+builder.Services.AddSingleton<RepositoryAccesories>();
+builder.Services.AddSingleton<RepositoryCustomer>();
+builder.Services.AddSingleton<RepositoryOffer>();
+
+var app = builder.Build();
+
+// Initialize repositories that require async population
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var repoVehicle = services.GetRequiredService<RepositoryVehicle>();
+    var repoOffer = services.GetRequiredService<RepositoryOffer>();
+
+    // initialize vehicle data (accessories and tax rates)
+    await repoVehicle.InitializeAsync();
+
+    // initialize offers (depends on vehicles and customers)
+    await repoOffer.InitializeAsync();
+}
+
+app.MapControllers();
+// Configure the HTTP request pipeline.
+app.UseHttpsRedirection();
+
+app.Run();
+

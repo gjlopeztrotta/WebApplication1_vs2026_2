@@ -1,0 +1,17 @@
+﻿using WebApplication1_vs2026_2.Repository;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+builder.Services.AddSingleton<RepositoryVehicle>();
+builder.Services.AddSingleton<RepositoryTax>();
+builder.Services.AddSingleton<RepositoryAccesories>();
+builder.Services.AddSingleton<RepositoryCustomer>();
+builder.Services.AddSingleton<RepositoryOffer>();
+
+var app = builder.Build();
+app.MapControllers();
+// Configure the HTTP request pipeline.
+app.UseHttpsRedirection();
+
+app.Run();
+

@@ -1,0 +1,29 @@
+﻿using WebApplication1_vs2026_2.Repository;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddSingleton<RepositoryVehicle>();
+builder.Services.AddSingleton<RepositoryTax>();
+builder.Services.AddSingleton<RepositoryAccesories>();
+builder.Services.AddSingleton<RepositoryCustomer>();
+builder.Services.AddSingleton<RepositoryOffer>();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+app.MapControllers();
+
+app.Run();
+

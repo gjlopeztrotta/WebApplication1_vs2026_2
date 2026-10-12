@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\controller\\accesoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\controller\\accesoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\repository\\repositoryaccesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\repository\\repositoryaccesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\repository\\repositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\repository\\repositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\controller\\iemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\controller\\iemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\repository\\repositoryoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\repository\\repositoryoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\repository\\repositoryiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\repository\\repositoryiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\model\\iem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\model\\iem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\controller\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\controller\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\controller\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\controller\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\controller\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\controller\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\repository\\repositorytax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\repository\\repositorytax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\repository\\repositoryvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\repository\\repositoryvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\apis\\offersapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\apis\\offersapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|c:\\users\\gjlop\\documents\\github\\webapplication1_vs2026_2\\webapplication1_vs2026_2\\model\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9779DE6A-1172-8995-FD57-202C4E4877FA}|WebApplication1_vs2026_2\\WebApplication1_vs2026_2.csproj|solutionrelative:webapplication1_vs2026_2\\model\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryOffer.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryOffer.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Repository\\RepositoryOffer.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryOffer.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Repository\\RepositoryOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:04:39.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryAccesories.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryAccesories.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Repository\\RepositoryAccesories.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryAccesories.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Repository\\RepositoryAccesories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T16:41:35.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Model\\Tax.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Model\\Tax.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Model\\Tax.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Model\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T16:27:20.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryCustomer.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Repository\\RepositoryCustomer.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryCustomer.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Repository\\RepositoryCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T16:18:13.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IemController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\IemController.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Controller\\IemController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\IemController.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Controller\\IemController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T15:48:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\AccesoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Controller\\AccesoriesController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\AccesoriesController.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Controller\\AccesoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T15:48:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Controller\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Controller\\CustomerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T15:46:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\TaxController.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Controller\\TaxController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\TaxController.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Controller\\TaxController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T15:46:25.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d455e273-1acb-491f-b5c9-760a99044cf9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Controller\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\VehiclesController.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Controller\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:53:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OffersApi.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Apis\\OffersApi.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Apis\\OffersApi.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Apis\\OffersApi.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Apis\\OffersApi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:46:35.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OffersController.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\OffersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Controller\\OffersController.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Controller\\OffersController.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Controller\\OffersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:43:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryTax.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryTax.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Repository\\RepositoryTax.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryTax.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Repository\\RepositoryTax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:19:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryVehicle.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Repository\\RepositoryVehicle.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryVehicle.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Repository\\RepositoryVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:10:36.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Program.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Program.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:08:07.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Model\\Offer.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Model\\Offer.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Model\\Offer.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Model\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:51:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryIEM.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryIEM.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Repository\\RepositoryIEM.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Repository\\RepositoryIEM.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Repository\\RepositoryIEM.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:47:43.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEM.cs",
+              "DocumentMoniker": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Model\\IEM.cs",
+              "RelativeDocumentMoniker": "WebApplication1_vs2026_2\\Model\\IEM.cs",
+              "ToolTip": "C:\\Users\\gjlop\\Documents\\GitHub\\WebApplication1_vs2026_2\\WebApplication1_vs2026_2\\Model\\IEM.cs",
+              "RelativeToolTip": "WebApplication1_vs2026_2\\Model\\IEM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:47:24.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0JT27dbAzke5fGqPCfEtqQAAAAACAAAAAAAQZgAAAAEAACAAAABUMji1q/s+7GZhLRIyA3zO3v+4oC4bLGtPNVlxjT02GAAAAAAOgAAAAAIAACAAAABZNBjfl31OWsV49551ZyVSUgLHpFRgEYj6jSewsWtFXjAAAAALGYBf2UI2T67F1lYGen1MYlRopCAb/0/v8Pmb2Qm6mtoPTG88N5jzZgHe2KA2YtJAAAAAbDdAEJzeink/VRMJCNQeMu3onmyUY5OpfpI+6yA3zkWgmZR1+pGYi9s55jo6IcrNh3OtrihkmggMHkSlC3nDEw==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.gjlopeztrotta.somee.com/www.gjlopeztrotta.somee.com</_PublishTargetUrl>
+    <History>True|2026-10-10T16:45:34.7016330Z||;True|2026-10-03T17:50:52.8394430+02:00||;True|2026-09-27T17:40:53.2726739+02:00||;True|2026-09-26T20:36:03.9410117+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/20/2026 16:13:30</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/20/2026 16:13:30</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>08/22/2026 18:12:50</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>12/08/2026 23:11:34</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/10/2026 18:45:18</publishTime>
+    </File>
+    <File Include="WebApplication1_vs2026_2.deps.json">
+      <publishTime>10/10/2026 18:45:18</publishTime>
+    </File>
+    <File Include="WebApplication1_vs2026_2.dll">
+      <publishTime>10/10/2026 18:45:18</publishTime>
+    </File>
+    <File Include="WebApplication1_vs2026_2.exe">
+      <publishTime>10/10/2026 18:45:18</publishTime>
+    </File>
+    <File Include="WebApplication1_vs2026_2.pdb">
+      <publishTime>10/10/2026 18:45:18</publishTime>
+    </File>
+    <File Include="WebApplication1_vs2026_2.runtimeconfig.json">
+      <publishTime>09/26/2026 20:35:43</publishTime>
+    </File>
+    <File Include="WebApplication1_vs2026_2.staticwebassets.endpoints.json">
+      <publishTime>09/26/2026 20:35:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
